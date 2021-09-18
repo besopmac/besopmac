@@ -1,6 +1,6 @@
-<!--
-## Hi there! 👋 I'm Bruno Campos, a Front-End Developer.
+## Hi there! 👋
 
+<!--
 **besopmac/besopmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
